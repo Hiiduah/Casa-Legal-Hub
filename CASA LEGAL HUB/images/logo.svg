@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+  <style>
+    .logo-bg { fill: #2c3e50; }
+    .icon { fill: #e74c3c; }
+    .title { font: bold 28px 'Arial'; fill: #2c3e50; }
+    .subtitle { font: bold 12px 'Arial'; fill: #e74c3c; letter-spacing: 1px; }
+    .motto { font: italic 12px 'Arial'; fill: #3498db; }
+  </style>
+  
+  <!-- Background Shape -->
+  <rect x="10" y="10" width="60" height="60" rx="10" class="logo-bg" opacity="0.1"/>
+  
+  <!-- Legal Scale Icon -->
+  <g class="icon" transform="translate(20,20)">
+    <path d="M40 30h-8.5l-3-6.5-3 6.5H17l4.5-9.5L17 11h8.5l3 6.5 3-6.5H40l-4.5 9.5z"/>
+    <rect x="18" y="32" width="24" height="2"/>
+    <circle cx="30" cy="15" r="2"/>
+  </g>
+  
+  <!-- Text Elements -->
+  <text x="90" y="45" class="title">CASA LEGAL HUB</text>
+  <text x="90" y="60" class="motto">Your Right, Our Concern</text>
+</svg>
