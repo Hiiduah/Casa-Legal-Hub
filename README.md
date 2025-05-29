@@ -89,5 +89,5 @@ Potential improvements that could be added:
 ## Contact
 
 For any questions or support, please contact:
-- Email: casalegalhub@gmail.com
-- Phone: (+250) 788625631 / 728625631
+- Email: hirwaplacide@gmail.com
+
